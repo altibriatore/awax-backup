@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="5" viewBox="0 0 17 5">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="17" height="5" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="reticencias" clip-path="url(#clip-path)">
+    <g transform="translate(-426 -6232)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="2" cy="2" r="2" transform="translate(426 6232)" fill="#fff"/>
+    </g>
+    <g transform="translate(-420 -6232)">
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="2" cy="2" r="2" transform="translate(426 6232)" fill="#fff"/>
+    </g>
+    <g transform="translate(-414 -6232)">
+      <circle id="Ellipse_4-3" data-name="Ellipse 4" cx="2" cy="2" r="2" transform="translate(426 6232)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

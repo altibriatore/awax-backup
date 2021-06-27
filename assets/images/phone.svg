@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.5" height="18.5" viewBox="0 0 20.5 18.5">
+  <g id="phone" transform="translate(-255.254 -5997.254)">
+    <line id="Line_1" data-name="Line 1" y1="4" transform="translate(262.594 6008.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_2" data-name="Line 2" y1="4" transform="translate(265.504 6008.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_3" data-name="Line 3" y1="4" transform="translate(267.966 6008.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_4" data-name="Line 4" x1="5.372" transform="translate(262.594 6012.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_5" data-name="Line 5" x1="5.372" transform="translate(262.594 6008.253)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_6" data-name="Line 6" x1="5.372" transform="translate(262.594 6010.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-4928.496 1721.004)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="19" height="9" rx="2.25" transform="translate(5184.5 4285)" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    </g>
+    <path id="Path_4" data-name="Path 4" stroke="#fff" d="M5184.5,4279.5v2.5h7v-.75a1.251,1.251,0,0,1,1.25-1.25h2.5a1.251,1.251,0,0,1,1.25,1.25v.75h7v-2.5a2.5,2.5,0,0,0-2.5-2.5h-14A2.5,2.5,0,0,0,5184.5,4279.5Z" fill="none" transform="translate(-4928.496 1721.004)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" fill-rule="evenodd"/>
+  </g>
+</svg>

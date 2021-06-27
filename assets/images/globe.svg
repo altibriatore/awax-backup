@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.508" height="20.508" viewBox="0 0 20.508 20.508">
+  <g id="globe" transform="translate(-255.75 -6080.75)">
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="9.504" cy="9.504" r="9.504" transform="translate(256.5 6081.5)" stroke-width="1.5" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="4" cy="9" rx="4" ry="9" transform="translate(262.004 6082.004)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_7" data-name="Line 7" y2="19" transform="translate(266.504 6081.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <line id="Line_8" data-name="Line 8" x2="19" transform="translate(256.504 6091.504)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+</svg>
